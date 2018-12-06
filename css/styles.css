@@ -33,12 +33,18 @@ text-align: center;
 
 p {
   font-family: 'Lora', serif;
-
-
-
-
 }
+p.adnanalic  {
+  font-style: normal;
+  color: white;}
 
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
 div {
   background-color: #E4F9F5;
 }
@@ -133,4 +139,17 @@ float: left;
 
 .clear2 {
   clear: left;
+}
+
+.footer-link {
+  font-size: 30px;
+
+}
+
+
+.bottom-container {
+  background-color: #66BFBF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+word-spacing: 30px;
 }
